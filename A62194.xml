@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Satyr against marriage</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62194</idno>
+            <idno type="STC">Wing S710</idno>
+            <idno type="STC">ESTC R26999</idno>
+            <idno type="EEBO-CITATION">09606014</idno>
+            <idno type="OCLC">ocm 09606014</idno>
+            <idno type="VID">43801</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43801)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Satyr against marriage</title>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43801:1"/>
+            <pb facs="tcp:43801:1"/>
+            <p>A SATYR AGAINST MARRIAGE.</p>
+            <q>
+               <p>O Demens! Ita ſervus homo eſt?</p>
+               <bibl>
+                  <hi>Juve.</hi> Sat. <hi>6.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:43801:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:43801:2"/>
+            <head>A SATYR AGAINST MARRIAGE.</head>
+            <lg>
+               <l>O Friend, Continue in your Rural Air,</l>
+               <l>Nor Tempt our ſultry Town, nor ſullen Fair;</l>
+               <l>Live happy in a Quiet Single Life,</l>
+               <l>Hunt Foxes, Wolves, but ſhun the Marriage Strife:</l>
+               <l>Truſt me, no Game ſo Dang'rous as a VVife.</l>
+            </lg>
+            <lg>
+               <l>The VVretched Lover in all Forms I'll Show,</l>
+               <l>In all the Scenes of Folly and of Woe,</l>
+               <l>From the Land-Blockhead to the Empty Beau.</l>
+               <pb n="4" facs="tcp:43801:3"/>
+               <l>I'll ſhow you Firſt the Lover and his Fair,</l>
+               <l>I'll ſhow them next a Miſerable Pair;</l>
+               <l>Conjur'd to one, a <hi>Double</hi> Helpleſs thing,</l>
+               <l>By the ſtrange Circle of a VVedding Ring.</l>
+               <l>O ſhun that Circle, ſhun the dang'rous ground,</l>
+               <l>Keep far, far off, and make a Diſtant round;</l>
+               <l>Scarce keep in ſight, elſe e're you are aware,</l>
+               <l>You ſink in Quickſands and in Poiſ'nous Air,</l>
+               <l>Plung'd firſt in Love, then Marriage—then Deſpair.</l>
+            </lg>
+            <lg>
+               <l>And now Young Man, for yet thy Years are Green,</l>
+               <l>Conſider what ſhall be from what has been.</l>
+               <l>To the firſt Stage of Manhood juſt arriv'd,</l>
+               <l>For now ſome Eighteen Summers you have Liv'd,</l>
+               <l>Now is the Time to Powder and Perfume,</l>
+               <l>And Court Young Players in the Tyring Room,</l>
+               <l>To Sigh, to Languiſh, Bite your Lips, and Tell</l>
+               <l>Some little Flirt ſhe acted Charming well.</l>
+               <l>Thus does each Airy Fop his Courtſhip make,</l>
+               <l>Till <hi>Cloe</hi>'s loſt for ſome new Charmers ſake;</l>
+               <l>This new One all on ſudden he admires,</l>
+               <l>Yes, He adores her all in Flames and Fires,</l>
+               <l>Says he's her Slave, and will her victim bleed,</l>
+               <l>And if this Fuſtian with the Nymph ſucceed,</l>
+               <l>He grows e're long a very Slave indeed.</l>
+               <pb n="3" facs="tcp:43801:3"/>
+               <l>He who might rove the Univerſe around,</l>
+               <l>Is to the Arms of a Weak Woman Bound.</l>
+               <l>Like Sun-dry'd Reeds he Blazes and he burns,</l>
+               <l>And the Advice of all acquaintance Scorns;</l>
+               <l>Nor Tutor, Friend, nor Father can reſtrain</l>
+               <l>The Fiery Youth, while Love Uſurps the Reign;</l>
+               <l>Like the Raſh <hi>Phaethon,</hi> he firms his Aims,</l>
+               <l>Reſolv'd to Drive, tho' thro' Deſtructive Flames.</l>
+               <l>Fancy's, while yet no Down o'reſhade's his Face,</l>
+               <l>Fancy's, he's Fit to propagate his Race.</l>
+               <l>Fancy's, Love's Tide, which now ſo ſtrongly Flows,</l>
+               <l>No Ebb, no Change, no intermiſſion knows.</l>
+               <l>He Courts, Preſents, and Seranades the Maid,</l>
+               <l>And ſends his Verſes either Bought or made.</l>
+               <l>Walks near her door with rueful downcaſt Mien,</l>
+               <l>The Aſs, the Lover, but no Man, is ſeen;</l>
+               <l>His Friends avoids, and Loaths all Manly kind,</l>
+               <l>For Love, the Worſt Greenſickneſs of the Mind.</l>
+               <l>O Love! O Cheat! O Couz'ner in thy Play,</l>
+               <l>Too Dear a Prize for thy falſe Joys we pay,</l>
+               <l>For Woman, for a Toy—</l>
+               <l>We give our Hands, our Hearts, our very ſelves away.</l>
+               <pb n="4" facs="tcp:43801:4"/>
+               <l>The Nymph now Gain'd, who was ſo hardly ſought,</l>
+               <l>Their Parents never can to Terms be brought,</l>
+               <l>The Boy worth Nothing beds a Bride worth Nought.</l>
+            </lg>
+            <lg>
+               <l>Such was the Match when the Fam'd <hi>A</hi>— was bound</l>
+               <l>To Painted <hi>G</hi>—</l>
+               <l>He Charm'd the <hi>Mall,</hi> the Ring, and all around</l>
+               <l>Both Theatres, the Fair from him receiv'd their Wound</l>
+               <l>No ſparkling Ball, no Beauiſh Ground was free,</l>
+               <l>But He was there, and was the Mighty He.</l>
+               <l>Now Searjeants Dogg him at Each Turn, and meet</l>
+               <l>The Spark, who forc'd to bruiſe his tender Feet,</l>
+               <l>Uucoach'd evades them o're the ſtubborn Street.</l>
+               <l>From <hi>Compter</hi> ſcap'd, he flyes, and meets at home,</l>
+               <l>Poor Spouſe and ragged Brats in an exalted Room;</l>
+               <l>But <hi>Marry'd,</hi> the poor Slave muſt be content,</l>
+               <l>He ſees his Doom and does in vain repent.</l>
+            </lg>
+            <lg>
+               <l>Next comes the Fluttring-Fop with Dance and Song,</l>
+               <l>And humms ſome Tune, to paſs the <hi>Mall</hi> along.</l>
+               <l>With airy Meaſures his gay Progreſs makes,</l>
+               <l>And gently Coupees at each ſtep he takes.</l>
+               <l>Then out he draws his fancied Watch, and ſhows</l>
+               <l>Time to a Minute to Companion Beaus,</l>
+               <pb n="5" facs="tcp:43801:4" rendition="simple:additions"/>
+               <l>This draws out his, That his, and each compares,</l>
+               <l>To try, if Time be pointed right in theirs.</l>
+               <l>Vain Fops! Who ſquander Time, our deareſt prize,</l>
+               <l>Only in taking Notice how it flyes.</l>
+               <l>The Spark his Cane ſwings next with charming Grace,</l>
+               <l>Viewing with careleſs Mein each beauteous Face,</l>
+               <l>And thinks himſelf the Charmer of the Place.</l>
+               <l>Now with a Haughty, ſidelong Air he Walks,</l>
+               <l>At once takes Snuff, and laughs aloud and Talks.</l>
+               <l>With Fops like theſe Women are ſoon Alarm'd,</l>
+               <l>By Pride, ſuperiour to their own diſarm'd,</l>
+               <l>The languiſh, ſigh, and are with Folly Charm'd.</l>
+               <l>With Female Fools <hi>much talk and little Wit,</hi>
+               </l>
+               <l>Are the ſure Darts that never fail to hit.</l>
+               <l>Let him go on to ſpring his Female Game,</l>
+               <l>Falſe Fires Reflected ſhall give real Flame.</l>
+               <l>Some Nymph, who much ſhall reputation boaſt,</l>
+               <l>Which ſtill ſhe has, 'tis not known 'tis loſt,</l>
+               <l>To catch our Fop, pretends to niceſt Rules,</l>
+               <l>Fool'd firſt her ſelf, fit to make others Fools,</l>
+               <l>Sets up for Fortune, Beauty, Wit and Youth,</l>
+               <l>Blaz'd by her Creatures for a certain Truth.</l>
+               <l>The Subtle, Cloſe, Infectious, nimble Tales,</l>
+               <l>Buzz'd to ſome Friend who with the Fop prevails,</l>
+               <pb n="6" facs="tcp:43801:5" rendition="simple:additions"/>
+               <l>Set him agog, and all on Fire he flies,</l>
+               <l>Woo's, Fawns, and Cringes, Swears ten Thouſand Lyes,</l>
+               <l>He Loves, and he muſt Gain, or ſtrait he dies.</l>
+               <l>All in a Hurry is the Fop betray'd,</l>
+               <l>Nooz'd in <hi>Spring-Garden</hi> in a <hi>Maſquerade,</hi>
+               </l>
+               <l>No Man the Bridegroom, and the Bride no Maid.</l>
+               <l>Strait ſpacious Lodgings for his Mate he takes,</l>
+               <l>And ſhe ſecures the Joynture which he makes;</l>
+               <l>Her boaſted Fortune, and her vaſt Eſtate,</l>
+               <l>Prove all a Bubble, a meer Female Cheat.</l>
+               <l>Hence Feuds and Strife get Birth; e're long they part,</l>
+               <l>And ſhe, well practic'd in the Female Art,</l>
+               <l>Sends him, (no matter who's) a Chopping Brat,</l>
+               <l>Who, when he dye's ſhall vaunt with his Eſtate,</l>
+               <l>Spend what his Grandſues hoarded under ground.</l>
+               <l>Laugh <hi>Hymen,</hi> Laugh, and Grin ye Satyrs round.</l>
+               <l>How like you <hi>Frank,</hi> the Bleſſed Scene in View,</l>
+               <l>Will any after this but Mad-men Woo?</l>
+            </lg>
+            <lg>
+               <l>But Grey <hi>M</hi>— ſhall with his Crutch have place,</l>
+               <l>Tho' Wrinkles Seventy Years have Plow'd his Face,</l>
+               <l>Of Silver Hairs the Scandal and Diſgrace.</l>
+               <l>He Shaves, he Powders, he Perfumes in vain,</l>
+               <l>No Art can bring his Youth, his Strength again;</l>
+               <l>In vain his Aukward apiſh Trick he Tryes,</l>
+               <l>His hollow Cheeks, and Wrinkles baffle all Diguiſe.</l>
+               <pb n="7" facs="tcp:43801:5"/>
+               <l>Strange! that ſuch Age, ſuch right to folly claim,</l>
+               <l>Strange! that when Seventy Years have made him tame,</l>
+               <l>He ſhou'd hold Cards, who cannot play the Game.</l>
+               <l>But Marriage, like a Plague, Infection ſpreads,</l>
+               <l>And Horns will often ſprout on Silver Heads.</l>
+               <l>Marriage is like the Rabble rout in Sweets,</l>
+               <l>Where each Inquires the News of each he Meets,</l>
+               <l>Thoſe who are <hi>out</hi> thruſt <hi>in</hi> the Preſs amain,</l>
+               <l>Thoſe who are <hi>in</hi> ſtrive to get <hi>out</hi> again.</l>
+               <l>Fixt, like Small Pox, is the Malignant knot,</l>
+               <l>Or Young, or Old, few dye without the ſpot.</l>
+            </lg>
+            <lg>
+               <l>But here comes one beyond the Fool in years.</l>
+               <l>A Fool, who much a Greater Fool appears;</l>
+               <l>One whom the Plague already had in wind,</l>
+               <l>And left broad Blotches of P—s Rage behind.</l>
+               <l>The Widdower—who did the Seas explore,</l>
+               <l>Was toſt by Wind and VVaves, half wreck'd before,</l>
+               <l>Ventures again, and leaves the happy ſhore</l>
+               <l>Strange that he ſhou'd experience thus abuſe,</l>
+               <l>For he that Marries twice has no excuſe.</l>
+               <l>VVhy, when their Siſters did one Head deface,</l>
+               <l>Shou'd a new <hi>Hydra</hi>'s Head ſupply the place?</l>
+               <l>Thus Criminals, who 'ſcape the Law, perplext,</l>
+               <l>Rob when this Seſſion ends, are hang'd the next.</l>
+            </lg>
+            <pb n="8" facs="tcp:43801:6"/>
+            <lg>
+               <l>Suppoſe, my friend, Fair <hi>Cloris</hi> was your Bride,</l>
+               <l>And you all raviſh'd lying by her ſide;</l>
+               <l>
+                  <hi>Cloris!</hi> whom you ſo highly have admir'd,</l>
+               <l>Whoſe dazling Beauty your deſires have fir'd.</l>
+               <l>Whoſe ſingle Glance your Reaſon cou'd Controul,</l>
+               <l>And ev'ry Motion ſhake your wond'ring Soul.</l>
+               <l>Imagine now your <hi>Cloris</hi> you had gain'd,</l>
+               <l>And one Week paſt ſince you the Bliſs obtain'd.</l>
+               <l>Draw wide the Morning Curtains, and Expoſe</l>
+               <l>The lovely Cheeks, the Lilly and the Roſe,</l>
+               <l>You and your Wife permit me to behold,</l>
+               <l>Your Wife! — O frightful! grown already Old?</l>
+               <l>Where are thoſe ſwelling Breaſts, that charming Air?</l>
+               <l>Sure, I miſtake! this cannot be the Fair.</l>
+               <l>No Paint adorns that Face, that Face is grown</l>
+               <l>So Juſt, the homely Colour is its own.</l>
+               <l>How far unlike that ſparkling thing ſhe lies;</l>
+               <l>Her Lips diſcolour'd, and unbeam'd her Eyes.</l>
+            </lg>
+            <lg>
+               <l>Now <hi>Frank,</hi> Reflect, Man, who was born to Rule,</l>
+               <l>Sinks into Marriage, and comes up a Fool.</l>
+               <l>None was e're yet ſo happy in a Bride,</l>
+               <l>But oft did wiſh the fatal knot unty'd.</l>
+               <pb n="9" facs="tcp:43801:6"/>
+               <l>How is the Senſe of Lordly Man diſplay'd?</l>
+               <l>We make them Idols, worſhip them when made,</l>
+               <l>Diſdaining VVit, and ſcorning Merit too,</l>
+               <l>But love the fool, where they themſelves may view;</l>
+               <l>VVhere, by reflection, they the ſight may gain</l>
+               <l>Of ſomething very Proud, and very vain.</l>
+               <l>Think on the bawling Brats, the Plagues of Life,</l>
+               <l>Think on them grown to Years of filial ſtrife,</l>
+               <l>Think, think—weigh Marriage well—</l>
+               <l>Weigh but Light woman Juſt—up mounts in Air the Wife.</l>
+               <l>Reflect, Conſider what the word contains,</l>
+               <l>Contagion, Noiſe, and Fury in it reigns.</l>
+               <l>A VVife! confuſion, ſcarce the D—d fare worſe,</l>
+               <l>Than he that's wedded to the Female Curſe.</l>
+               <l>VVith Pride as Great as Lucifer Endu'd,</l>
+               <l>And as fam'd <hi>Meſſalina</hi> monſtrous Lewd.</l>
+               <l>To endleſs Charges ſhe allures her Spouſe,</l>
+               <l>And to ſay truth, ſhe too keeps open Houſe;</l>
+               <l>The Husband's Gueſts, and only his in ſhow,</l>
+               <l>Her's too in ſecret; e're they part ſhall Grow.</l>
+               <l>Her Children flock the Careful Husband round,</l>
+               <l>And Sires for all may in the Room be found.</l>
+               <l>The Cuckold fondly ſtrokes the little Brood,</l>
+               <l>And thinks them all his own pure Fleſh and Blood,</l>
+               <l>Brags of his Feats, and of the dear Delight,</l>
+               <l>The Leering Mother Smiles, the Fathers Laugh outright.</l>
+               <pb n="10" facs="tcp:43801:7"/>
+               <l>How like you <hi>Frank,</hi> the bleſſed Scene in View?</l>
+               <l>Will any after this but Madmen Woo?</l>
+               <l>Try ſome old Cits Gay VVife and find it true.</l>
+            </lg>
+            <lg>
+               <l>In Chaſt <hi>Cheapſide,</hi> not diſtant very <hi>far</hi>
+               </l>
+               <l>From a known Tavern with a Noiſy Bar.</l>
+               <l>Inquire the Fam'd C— and you ſhall find</l>
+               <l>A Keeping Lady wond'rous fair and kind.</l>
+               <l>A G—s VVife too not far thence is known</l>
+               <l>To give away more Jewels than her own.</l>
+               <l>But if her Spouſe, that poor Compliant thing.</l>
+               <l>Whom honeſt Cuckoldom, to view muſt bring,</l>
+               <l>That Fiend that's rais'd within the Nuptial Ring;</l>
+               <l>Within his breaſt, worſe than the pointed Steel,</l>
+               <l>The ſtinging Pangs of Jealouſie ſhall feel;</l>
+               <l>Horror, Deſpair, and Rage, and Madneſs rowl,</l>
+               <l>And fire his Blood, and Poyſon all his Soul.</l>
+               <l>With threats his Wife he charges with her Crime,</l>
+               <l>And ſwears he knows the very place and Time.</l>
+               <l>His Friends, grown her's, reproachfully Exclaim,</l>
+               <l>Cry to the Husband— Barbarous! O for Shame,</l>
+               <l>He Storms, and cries out— Cuckold—that's my Name.</l>
+               <l>All Joyn againſt the Husband, none abuſe</l>
+               <l>The poor Good VVife, tho' Infamous as Stews,</l>
+               <l>And may ſuch fate attend all thoſe that Nooſe.</l>
+               <pb n="11" facs="tcp:43801:7"/>
+               <l>Back'd by her Friends, who will her Fame maintain,</l>
+               <l>And clear with Blood her falſe imagin'd ſtain,</l>
+               <l>She Rails, and calls him, Scoundrel, ſorry Slave,</l>
+               <l>A Beggar, Wretch, till ſhe her Fortunes Gave;</l>
+               <l>Her Ample Fortune, Tenements and Lands,</l>
+               <l>Made his that Fatal Hour that Joyn'd their Hands.</l>
+               <l>And now <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhe turns, and Weeps, and then ſhe Cries</l>
+               <l>Is it for this Ingrateful Man—</l>
+               <l>On my Unſpotted Fame you fix ſuch racking Lies?</l>
+               <l>The Ninny melts, his boiling heart falls down,</l>
+               <l>And his Horns ſink within his Fronting Crown.</l>
+               <l>Her Pettiſh Peeviſh Humours he muſt pleaſe,</l>
+               <l>And Act the Fool a Hundred Thouſand ways;</l>
+               <l>Her Slave by Night, her very Ape by days.</l>
+               <l>Thus the poor Dog with Bell, turns, ſhifts, go's round,</l>
+               <l>That whom he leads may ſafely tread the Ground.</l>
+               <l>Yet the poor Curr muſt oft for all his Care,</l>
+               <l>Strokes undeſerv'd and Furious Laſhes Bear.</l>
+               <l>So muſt the Husband, paid for all his Pains,</l>
+               <l>Meet proud Inſults, while ſhe, the Tyrant Reigns,</l>
+               <l>And holds him like a Fetter'd Dog in Chains.</l>
+               <l>O <hi>Hymen,</hi> boaſt no more thou giv'ſt us Joy</l>
+               <l>'Tis thou that do'ſt all Human Peace deſtroy;</l>
+               <pb n="12" facs="tcp:43801:8"/>
+               <l>Where e're thou com'ſt all Pleaſures fly the Ground,</l>
+               <l>And Killing Cares whirl a perpetual Round,</l>
+               <l>While no dear Interval of Reſt is found.</l>
+               <l>The ſmother'd Fire, now burning, all alarms,</l>
+               <l>And the divided Houſhold ſtand to Arms.</l>
+               <l>But O, the Power of the Gayety and Pride!</l>
+               <l>The greater part march to the Female ſide.</l>
+               <l>The Houſe is in an Uproar, Thunder roars,</l>
+               <l>And ſhakes the Chamber-Roofs, and jarring doors.</l>
+               <l>They part— ſhe leaves him ſtruggling in the Nett,</l>
+               <l>He can't her <hi>Alimony</hi> fixt forget.</l>
+               <l>But he muſt ſoon remember, and muſt pay</l>
+               <l>Debts ſhe contracted in her Female ſway,</l>
+               <l>For Preſents, to her Lovers giv'n away.</l>
+               <l>What muſt this VVretched Husband do? what force,</l>
+               <l>What Art can e're pervail for a Divorce?</l>
+               <l>When one, if we may Credit buſie Fame,</l>
+               <l>Of Goodly Aſpect, <hi>Great</hi> in Bulk, and Name;</l>
+               <l>Practis'd all Means, yet hardly gain'd his Cauſe,</l>
+               <l>To prove himſelf the <hi>very thing</hi> he was.</l>
+               <l>Strange Female Power!— ev'n Logick ye confound,</l>
+               <l>And Man can ſcarce, for <hi>what he is,</hi> be found.</l>
+            </lg>
+            <pb n="13" facs="tcp:43801:8"/>
+            <lg>
+               <l>Remember <hi>Frank,</hi> (and let's forget the Strife</l>
+               <l>The Noiſe, the Plague and Nonſenſe of a Wife)</l>
+               <l>The true Delights of a bleſt ſingle Life.</l>
+               <l>Your Days and Nights your own, you may Aſſign</l>
+               <l>What time you pleaſe to Friends, and Mod'rate VVine.</l>
+               <l>You happy Rural Sports you may renew,</l>
+               <l>But never Come where Woman is in view.</l>
+               <l>Woman! far more inconſtant than the Wind,</l>
+               <l>Woman! by Nature to all Ill Inclin'd,</l>
+               <l>The ſure deſtroyer of a peaceful Mind:</l>
+               <l>Falſe as the Sea, and as a Bubble Light,</l>
+               <l>Our Sex's Plague by Day, our Curſe by Night.</l>
+               <l>Then Friend, with greateſt Diligence take Care,</l>
+               <l>Once Caught, there's no Redemption from the Snare.</l>
+               <l>We find a Cure for other Ills of Life,</l>
+               <l>But who can be Reliev'd that has a Wife?</l>
+               <l>Mind not the Praiſing Husbands of the Town,</l>
+               <l>VVho, like the Fox in the Old Fable known,</l>
+               <l>VVarn all to Lop their Tails, when they have loſt their own.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>A Law againſt Cuckoldom, or the Tryal of Adultery.</hi> Price 6 <hi>d,</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
